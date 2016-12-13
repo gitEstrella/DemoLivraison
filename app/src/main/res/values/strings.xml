@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DemoLivraison</string>
+    <string name="facebook_app_id">234676763635067</string>
+    <string name="error_login">Erreur...</string>
+    <string name="logout">Deconnexion</string>
+    <string name="cancel_login">Vous avez cancelé le login</string>
 </resources>
